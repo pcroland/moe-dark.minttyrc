@@ -3,7 +3,7 @@ BoldAsFont=yes
 BackgroundColour=32,32,32
 CursorColour=224,224,224
 
-Black=96,96,96
+Black=32,32,32
 BoldBlack=178,178,178
 Red=239,41,41
 BoldRed=255,75,75
